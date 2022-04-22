@@ -1,0 +1,15 @@
+C:\dev\ExceptionLession\ExceptionLession\bin\Debug\net6.0\ExceptionLession.exe
+C:\dev\ExceptionLession\ExceptionLession\bin\Debug\net6.0\ExceptionLession.deps.json
+C:\dev\ExceptionLession\ExceptionLession\bin\Debug\net6.0\ExceptionLession.runtimeconfig.json
+C:\dev\ExceptionLession\ExceptionLession\bin\Debug\net6.0\ExceptionLession.dll
+C:\dev\ExceptionLession\ExceptionLession\bin\Debug\net6.0\ExceptionLession.pdb
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.csproj.AssemblyReference.cache
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.AssemblyInfoInputs.cache
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.AssemblyInfo.cs
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.csproj.CoreCompileInputs.cache
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.dll
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\refint\ExceptionLession.dll
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.pdb
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ExceptionLession.genruntimeconfig.cache
+C:\dev\ExceptionLession\ExceptionLession\obj\Debug\net6.0\ref\ExceptionLession.dll
